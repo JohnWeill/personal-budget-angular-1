@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { BreadcrumbsComponent } from '../breadcrumbs/breadcrumbs.component';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { Chart } from 'chart.js';
 
